@@ -1,0 +1,18 @@
+.buttondiv{
+    position: absolute;
+    left: 150px;
+
+
+}
+.rightDiv {
+    
+    color: #000;
+   
+    float: right;
+}  
+.leftDiv {
+  
+    color: #000;
+   
+    float: left;
+}

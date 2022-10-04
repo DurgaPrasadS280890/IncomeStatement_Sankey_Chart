@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  
+height: 70px;
+width: 75px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  height: 70px;
+
+  background-color:#00a5aa;
+ 
+}
+.leftDiv {
+  
+  color: #000;
+ 
+  float: right;}
+
+.chart{
+  height:400px;
+  width:1200px;
+  padding-top: 1px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+ 
+  
+}
+.header {
+  
+
+  position: absolute;
+  left: 400px;
+  top:10px
+ 
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+

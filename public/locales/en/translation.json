@@ -1,0 +1,14 @@
+{
+    "Income":"Income",
+    "heading":"Income Statement Sankey Chart",
+    "main_instruction":"Please Enter Income/Expenses/Investments Details",
+    "Expense":"Expense",
+    "Investment":"Investment",
+    "type":"type",
+    "value":"value",
+    "add":"Add",
+    "Total":"Total",
+    "Savings":"Savings",
+    "input_ins":"Enter Expenses and Investments to view Sankey Chart ......"
+
+}
